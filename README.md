@@ -86,3 +86,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 📊 Mes Stats GitHub
+
+![Stats](https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=khelifakoussai1820&theme=radical)
+
+![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=khelifakoussai1820&layout=compact&theme=radical)
