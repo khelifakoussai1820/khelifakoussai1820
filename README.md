@@ -6,7 +6,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
 
-
+<br>
 
 ## 🚀 About Me
 
