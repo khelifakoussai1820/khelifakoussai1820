@@ -6,9 +6,9 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
 
-<br>
+<br><br> 
 
-## 🚀 About Me
+# 🚀 About Me
 
 *  Third-year Computer Science Student at USTHB (Algiers)
 *  Frontend Developer specializing in React
@@ -17,11 +17,11 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 *  Passionate about Software Engineering and Clean Code
 *  Based in Algeria
 
+<br><br> 
 
+# 🛠️ Tech Stack
 
-## 🛠️ Tech Stack
-
-### Frontend
+## Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
@@ -40,25 +40,25 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
+<br><br> 
 
+# 🌟 Featured Projects
 
-## 🌟 Featured Projects
-
-### 🌐 Personal Portfolio
+## 🌐 Personal Portfolio
 
 A responsive portfolio website built with React and Tailwind CSS to showcase my skills, projects, and experience.
 
-### 🤖 ATM Mobilis RAG Chatbot
+## 🤖 ATM Mobilis RAG Chatbot
 
 An AI-powered chatbot leveraging Retrieval-Augmented Generation (RAG) to provide intelligent and context-aware responses.
 
-### 🎨 React Frontend Projects
+## 🎨 React Frontend Projects
 
 A collection of frontend applications focused on modern UI/UX, reusable components, and responsive design.
 
+<br><br> 
 
-
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=tokyonight" />
@@ -71,7 +71,7 @@ A collection of frontend applications focused on modern UI/UX, reusable componen
 
 
 
-## 🎯 Current Goals
+# 🎯 Current Goals
 
 * Master advanced React concepts
 * Build production-ready frontend applications
@@ -81,7 +81,7 @@ A collection of frontend applications focused on modern UI/UX, reusable componen
 
 
 
-## 📫 Connect With Me
+# 📫 Connect With Me
 
 📧 Email: **[koussaikhelifa@gmail.com](mailto:koussaikhelifa@gmail.com)**
 
