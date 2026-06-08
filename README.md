@@ -1,92 +1,94 @@
-## 👋 Hello, I'm Khelifa Kossai Bahaaeddine
+# Hi there 👋 I'm Khelifa Kossai Bahaaeddine
 
-Third-year Computer Science student (L3) at the University of Science and Technology Houari Boumediene (USTHB), Algiers.  
-Motivated Software Developer with a strong interest in building modern, reliable, and scalable applications.
+### Frontend Developer • Computer Science Student • Future Full-Stack Engineer
 
-Currently focused on **Front-End development**, while actively expanding my skills toward **Full-Stack development**.
+Passionate about building modern, responsive, and user-friendly web applications.
 
----
-
-## 💼 Career Objective
-Seeking a **software development internship / junior position** where I can apply my skills, learn from experienced engineers, and contribute to real-world projects in a professional environment.
+Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
 
 ---
 
-## 💻 Technical Skills
+## 🚀 About Me
 
-**Front-End**
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
-
-**Programming Languages**
-- Python
-- C
-
-**Tools & Technologies**
-- Git & GitHub
-- Linux (Ubuntu)
-- REST APIs (fundamentals)
+*  Third-year Computer Science Student at USTHB (Algiers)
+*  Frontend Developer specializing in React
+*  Currently learning Backend Development with FastAPI
+*  Interested in Artificial Intelligence and RAG Systems
+*  Passionate about Software Engineering and Clean Code
+*  Based in Algeria
 
 ---
 
-## 🧩 Projects
-> Selected academic and personal projects
+## 🛠️ Tech Stack
 
-- **Personal Portfolio Website**  
-  Responsive portfolio built with **React** and **Tailwind CSS**, showcasing my skills, projects, and contact information.
+### Frontend
 
-- **Frontend Web Applications**  
-  Multiple small-to-medium projects focused on UI design, component-based architecture, and state management using **React**.
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
 
-_(More projects will be added as I continue learning and building.)_
+### Backend & Programming
 
----
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
 
-## 🛣 Full-Stack Development Roadmap
+### Tools
 
-**Short Term**
-- Strengthen JavaScript and React advanced concepts
-- Improve frontend architecture and best practices
-- Learn backend fundamentals 
-
-**Mid Term**
-- Backend development with **Python (FastAPI)**
-- Work with relational databases (MySQL, SQLite)
-- Build full-stack applications (frontend + backend)
-
-**Long Term**
-- System design fundamentals
-- Clean architecture and scalable systems
-- Contribute to open-source projects
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
 ---
 
-## 🚀 Interests
-- Web and mobile application development
-- Artificial Intelligence and emerging technologies
-- Software engineering best practices
+## 🌟 Featured Projects
+
+### 🌐 Personal Portfolio
+
+A responsive portfolio website built with React and Tailwind CSS to showcase my skills, projects, and experience.
+
+### 🤖 ATM Mobilis RAG Chatbot
+
+An AI-powered chatbot leveraging Retrieval-Augmented Generation (RAG) to provide intelligent and context-aware responses.
+
+### 🎨 React Frontend Projects
+
+A collection of frontend applications focused on modern UI/UX, reusable components, and responsive design.
 
 ---
 
-## 📫 Contact
-- Email: **koussaikhelifa@gmail.com**
-- GitHub: **@khelifakoussai1820**
+## 📈 GitHub Statistics
 
-<!--
-**khelifakoussai1820/khelifakoussai1820** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelifakoussai1820&layout=compact&theme=tokyonight" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=khelifakoussai1820&theme=tokyonight" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-## 📊 Mes Stats GitHub
+## 🎯 Current Goals
 
-![Streak](https://streak-stats.demolab.com?user=khelifakoussai1820&theme=radical)
+* Master advanced React concepts
+* Build production-ready frontend applications
+* Learn FastAPI and backend development
+* Develop full-stack projects
+* Contribute to open-source projects
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **[koussaikhelifa@gmail.com](mailto:koussaikhelifa@gmail.com)**
+
+🐙 GitHub: **github.com/khelifakoussai1820**
+
+---
+
+<p align="center">
+  <i>Building, learning, and growing one project at a time 🚀</i>
+</p>
