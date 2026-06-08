@@ -6,7 +6,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
 
-<br><br> 
+<br>
 
 # 🚀 About Me
 
@@ -17,7 +17,7 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 *  Passionate about Software Engineering and Clean Code
 *  Based in Algeria
 
-<br><br> 
+<br> 
 
 # 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
-<br><br> 
+<br>
 
 # 🌟 Featured Projects
 
@@ -56,7 +56,7 @@ An AI-powered chatbot leveraging Retrieval-Augmented Generation (RAG) to provide
 
 A collection of frontend applications focused on modern UI/UX, reusable components, and responsive design.
 
-<br><br> 
+<br>
 
 # 📈 GitHub Statistics
 
