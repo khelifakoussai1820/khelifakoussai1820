@@ -6,7 +6,7 @@ Passionate about building modern, responsive, and user-friendly web applications
 
 Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
 
----
+
 
 ## 🚀 About Me
 
@@ -17,7 +17,7 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 *  Passionate about Software Engineering and Clean Code
 *  Based in Algeria
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +40,7 @@ Currently focused on **React**, **Tailwind CSS**, and modern frontend developmen
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
 
----
+
 
 ## 🌟 Featured Projects
 
@@ -56,7 +56,7 @@ An AI-powered chatbot leveraging Retrieval-Augmented Generation (RAG) to provide
 
 A collection of frontend applications focused on modern UI/UX, reusable components, and responsive design.
 
----
+
 
 ## 📈 GitHub Statistics
 
@@ -69,7 +69,7 @@ A collection of frontend applications focused on modern UI/UX, reusable componen
   <img src="https://streak-stats.demolab.com?user=khelifakoussai1820&theme=tokyonight" />
 </p>
 
----
+
 
 ## 🎯 Current Goals
 
@@ -79,7 +79,7 @@ A collection of frontend applications focused on modern UI/UX, reusable componen
 * Develop full-stack projects
 * Contribute to open-source projects
 
----
+
 
 ## 📫 Connect With Me
 
