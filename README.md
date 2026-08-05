@@ -1,96 +1,131 @@
-# Hi there 👋 I'm Khelifa Kossai Bahaaeddine
+# Hi, I'm Khelifa Kossai Bahaaeddine 👋
 
-### Frontend Developer • Computer Science Student • Future Full-Stack Engineer
+### Frontend Developer • Computer Science Student • Building AI-Powered Web Applications
 
-Passionate about building modern, responsive, and user-friendly web applications.
+I enjoy creating modern, responsive, and scalable web applications while exploring Artificial Intelligence to solve real-world problems.
 
-Currently focused on **React**, **Tailwind CSS**, and modern frontend development while expanding my skills toward **Full-Stack Development & AI Applications** 
-
-<br>
-
-# 🚀 About Me
-
-*  Third-year Computer Science Student at USTHB (Algiers)
-*  Frontend Developer specializing in React
-*  Currently learning Backend Development with FastAPI
-*  Interested in Artificial Intelligence and RAG Systems
-*  Passionate about Software Engineering and Clean Code
-*  Based in Algeria
-
-<br> 
-
-# 🛠️ Tech Stack
-
-## Frontend
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-### Backend & Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge\&logo=c\&logoColor=black)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
-<br>
-
-# 🌟 Featured Projects
-
-## 🌐 Personal Portfolio
-
-A responsive portfolio website built with React and Tailwind CSS to showcase my skills, projects, and experience.
-
-## 🤖 ATM Mobilis RAG Chatbot
-
-An AI-powered chatbot leveraging Retrieval-Augmented Generation (RAG) to provide intelligent and context-aware responses.
-
-## 🎨 React Frontend Projects
-
-A collection of frontend applications focused on modern UI/UX, reusable components, and responsive design.
-
-<br>
-
-# 📈 GitHub Statistics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelifakoussai1820&layout=compact&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=khelifakoussai1820&theme=tokyonight" />
-</p>
-
-
-
-# 🎯 Current Goals
-
-* Master advanced React concepts
-* Build production-ready frontend applications
-* Learn FastAPI and backend development
-* Develop full-stack projects
-* Contribute to open-source projects
-
-
-
-# 📫 Connect With Me
-
-📧 Email: **[koussaikhelifa@gmail.com](mailto:koussaikhelifa@gmail.com)**
-
-🐙 GitHub: **github.com/khelifakoussai1820**
-
-🌐 Portfolio : **[my portfolio](https://khelifakossai.onrender.com/)**
+Currently focused on building production-ready projects with **React**, expanding into **Backend Development**, and developing intelligent applications powered by **AI**.
 
 ---
 
-<p align="center">
-  <i>Building, learning, and growing one project at a time 🚀</i>
+## 🚀 Featured Projects
+
+### 🤖 DeepFake Detection Platform *(In Progress)*
+
+An AI-powered platform designed to detect manipulated images and videos using modern deep learning techniques.
+
+**Tech Stack**
+
+`Python` `PyTorch` `OpenCV` `FastAPI`
+
+---
+
+### 💬 ATM Mobilis AI Chatbot
+
+An intelligent customer support chatbot based on Retrieval-Augmented Generation (RAG), capable of providing accurate, context-aware responses.
+
+**Tech Stack**
+
+`React` `FastAPI` `Python` `ChromaDB` `LLMs`
+
+🔗 Repository • Documentation
+
+---
+
+### 🌐 Personal Portfolio
+
+A modern portfolio designed to showcase my projects, technical skills, and development journey.
+
+**Tech Stack**
+
+`React` `Tailwind CSS` `Vite`
+
+🔗 Live Website • Repository
+
+---
+
+## 💻 Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vite" />
 </p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+</p>
+
+### AI & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+* Retrieval-Augmented Generation (RAG)
+* Vector Databases
+* Large Language Models
+* Computer Vision
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
+</p>
+
+---
+
+## 📈 GitHub Statistics
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelifakoussai1820&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 Currently Working On
+
+* Building an AI-powered DeepFake Detection Platform
+* Learning Backend Development with Node.js & Express
+* Designing scalable Full-Stack applications
+* Exploring Computer Vision and Generative AI
+* Growing my Freelance portfolio
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced React Architecture
+* Node.js & Express
+* Software Architecture
+* Machine Learning
+* Computer Vision
+* Cloud Deployment
+
+---
+
+## 📫 Let's Connect
+
+📧 **Email**
+
+**[koussaikhelifa@gmail.com](mailto:koussaikhelifa@gmail.com)**
+
+🌍 **Portfolio**
+
+https://khelifakossai.onrender.com
+
+💻 **GitHub**
+
+https://github.com/khelifakoussai1820
+
+---
+
+<div align="center">
+
+*"Building software that is clean, useful, and impactful."*
+
+</div>
