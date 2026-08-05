@@ -6,44 +6,6 @@ I enjoy creating modern, responsive, and scalable web applications while explori
 
 Currently focused on building production-ready projects with **React**, expanding into **Backend Development**, and developing intelligent applications powered by **AI**.
 
-
-
-## 🚀 Featured Projects
-
-### 🤖 DeepFake Detection Platform *(In Progress)*
-
-An AI-powered platform designed to detect manipulated images and videos using modern deep learning techniques.
-
-**Tech Stack**
-
-`Python` `PyTorch` `OpenCV` `FastAPI`
-
-
-
-### 💬 ATM Mobilis AI Chatbot
-
-An intelligent customer support chatbot based on Retrieval-Augmented Generation (RAG), capable of providing accurate, context-aware responses.
-
-**Tech Stack**
-
-`React` `FastAPI` `Python` `ChromaDB` `LLMs`
-
-🔗 Repository • Documentation
-
-
-
-### 🌐 Personal Portfolio
-
-A modern portfolio designed to showcase my projects, technical skills, and development journey.
-
-**Tech Stack**
-
-`React` `Tailwind CSS` `Vite`
-
-🔗 Live Website • Repository
-
-
-
 ## 💻 Tech Stack
 
 ### Frontend
