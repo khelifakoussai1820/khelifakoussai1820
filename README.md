@@ -76,26 +76,7 @@ A modern portfolio designed to showcase my projects, technical skills, and devel
 </p>
 
 
-
-## 🎯 Currently Working On
-
-* Building an AI-powered DeepFake Detection Platform
-* Learning Backend Development with Node.js & Express
-* Designing scalable Full-Stack applications
-* Exploring Computer Vision and Generative AI
-* Growing my Freelance portfolio
-
-
-
-## 🌱 Currently Learning
-
-* Advanced React Architecture
-* Node.js & Express
-* Software Architecture
-* Machine Learning
-* Computer Vision
-* Cloud Deployment
-
+---
 
 
 ## 📫 Let's Connect
