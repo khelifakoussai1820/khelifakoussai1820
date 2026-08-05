@@ -6,7 +6,7 @@ I enjoy creating modern, responsive, and scalable web applications while explori
 
 Currently focused on building production-ready projects with **React**, expanding into **Backend Development**, and developing intelligent applications powered by **AI**.
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -18,7 +18,7 @@ An AI-powered platform designed to detect manipulated images and videos using mo
 
 `Python` `PyTorch` `OpenCV` `FastAPI`
 
----
+
 
 ### 💬 ATM Mobilis AI Chatbot
 
@@ -30,7 +30,7 @@ An intelligent customer support chatbot based on Retrieval-Augmented Generation 
 
 🔗 Repository • Documentation
 
----
+
 
 ### 🌐 Personal Portfolio
 
@@ -42,7 +42,7 @@ A modern portfolio designed to showcase my projects, technical skills, and devel
 
 🔗 Live Website • Repository
 
----
+
 
 ## 💻 Tech Stack
 
@@ -75,17 +75,7 @@ A modern portfolio designed to showcase my projects, technical skills, and devel
 <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,figma" />
 </p>
 
----
 
-## 📈 GitHub Statistics
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=khelifakoussai1820&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khelifakoussai1820&layout=compact&theme=github_dark&hide_border=true"/>
-</p>
-
----
 
 ## 🎯 Currently Working On
 
@@ -95,7 +85,7 @@ A modern portfolio designed to showcase my projects, technical skills, and devel
 * Exploring Computer Vision and Generative AI
 * Growing my Freelance portfolio
 
----
+
 
 ## 🌱 Currently Learning
 
@@ -106,7 +96,7 @@ A modern portfolio designed to showcase my projects, technical skills, and devel
 * Computer Vision
 * Cloud Deployment
 
----
+
 
 ## 📫 Let's Connect
 
@@ -122,7 +112,7 @@ https://khelifakossai.onrender.com
 
 https://github.com/khelifakoussai1820
 
----
+
 
 <div align="center">
 
