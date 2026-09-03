@@ -44,7 +44,7 @@ Currently focused on building production-ready projects with **React**, expandin
 
 🌍 **Portfolio**
 
-(updating) 
+https://khelifakossai.onrender.com/
 
 💻 **GitHub**
 
